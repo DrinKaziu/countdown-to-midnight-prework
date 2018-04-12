@@ -10,4 +10,3 @@ def countdown(count)
   end
 end
 
-countdown
