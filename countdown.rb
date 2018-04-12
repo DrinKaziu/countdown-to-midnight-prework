@@ -1,9 +1,9 @@
 #write your code here
 
- n = 1
+ 
 
 def countdown(count)
-  
+  n = 1
   while n <= count
     puts "#{n} SECOND(S)!"
     count -= 1 
